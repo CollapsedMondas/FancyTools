@@ -19,7 +19,7 @@ public class FancyTools {
 	
 	@Instance
 	public static FancyTools instance;
-	@SidedProxy(clientSide = "at.xander.fancytools.proxy.ClientProxy", serverSide = "at.xander.")
+	@SidedProxy(clientSide = "at.xander.fancytools.proxy.ClientProxy", serverSide = "at.xander.fancytools.proxy.ServerProxy")
 	public static ServerProxy proxy;
 
 	@EventHandler
