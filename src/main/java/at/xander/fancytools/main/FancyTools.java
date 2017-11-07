@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(name = "Fancy Tools", modid = FancyTools.MODID, version = "1.0.2")
+@Mod(name = "Fancy Tools", modid = FancyTools.MODID, version = "1.0.3")
 public class FancyTools {
 	public static final String MODID = "fancytools";
 	
