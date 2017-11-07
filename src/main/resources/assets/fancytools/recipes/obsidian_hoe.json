@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MM",
+		" S",
+		" S"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:blaze_rod"
+		},
+		"M": {
+			"item": "minecraft:obsidian"
+		}
+	},
+	"result": {
+		"item": "fancytools:obsidian_hoe"
+	}
+	
+}
